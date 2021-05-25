@@ -1,6 +1,6 @@
 # IoTCaP 
 
-IoTCaP is a Platform based on the Vert.X toolkit and ICCP Framework foundations. 
+IoTCaP is a Platform based on the Vert.X toolkit and ICCF Framework foundations. 
 
 IoTCaP collects capabilities from different sensors. The goal is to implement new capabilities through compositions. These capabilities are composed using the mPlane semantics.
 
