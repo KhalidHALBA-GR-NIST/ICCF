@@ -6,7 +6,7 @@ IoTCaP collects capabilities from different sensors. The goal is to implement ne
 
 ## Model of the platform and Vert.X verticles.
 
-![Image](https://image.ibb.co/mzFNRF/Untitled.png)
+![Image](https://i.imgur.com/ZrDITPB.png)
 
 ## Runtime as viewed from the front end 
 
